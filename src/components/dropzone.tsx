@@ -40,7 +40,6 @@ const extensions = {
     "webp",
     "tif",
     "tiff",
-    "raw",
     "tga",
   ],
   video: [
