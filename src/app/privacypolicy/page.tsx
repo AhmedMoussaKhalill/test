@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
         </p>
         <section className="mt-6">
           <h2 className="text-xl font-semibold mb-4 flex items-center">
-          <span className="p-[5px] bg-purple-100 mr-2 mb-1 rounded-sm"><Info /></span> 1. Information We Collect 
+          <span className="p-[5px] bg-purple-100 mr-2 mb-1 rounded-sm"><Info /></span> 1. Info. We Collect 
           </h2>
           <div className="ml-4">
             <h3 className="text-lg font-semibold mb-2">
