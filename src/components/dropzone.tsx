@@ -404,7 +404,7 @@ export default function Dropzone() {
       accept={accepted_files}
       onDropRejected={() => {
         handleExitHover();
-        toast.error("Error uploading your file");
+        toast.error("Accepted files are: image , audio, video");
       }}
       onError={() => {
         handleExitHover();
